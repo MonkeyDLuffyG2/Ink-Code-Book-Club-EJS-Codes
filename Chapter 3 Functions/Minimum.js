@@ -20,4 +20,4 @@ console.log("The minimum number between 304 and 241 is: ", String(minimum(304, 2
 0
 -10
 The minimum number between 304 and 241 is:  241
-*/
+*/ 

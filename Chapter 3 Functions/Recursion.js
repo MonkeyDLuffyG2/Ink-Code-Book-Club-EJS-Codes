@@ -35,7 +35,7 @@ console.log(isEven(-100));
 */
 
 /*
-*Output
+*Output 
 true
 false
 false

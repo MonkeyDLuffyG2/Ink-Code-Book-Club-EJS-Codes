@@ -1,4 +1,4 @@
-// Original function
+// Original function 
 function countBs(string)
 {
     let total = 0;

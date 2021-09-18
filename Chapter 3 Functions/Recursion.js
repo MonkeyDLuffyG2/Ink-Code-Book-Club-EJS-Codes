@@ -8,7 +8,7 @@ function isEven(int)
     {
         return true;
     }
-    else if (int % 2 != 0)
+    else if (int % 2 != 0) 
     {
         return false;
     }

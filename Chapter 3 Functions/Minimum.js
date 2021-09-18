@@ -1,4 +1,4 @@
-function min(num_1, num_2)
+function min(num_1, num_2) 
 {
     if (num_1 < num_2)
     {
